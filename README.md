@@ -1,2 +1,2 @@
 # Cockpit
-AStock Assistant System
+A Lightweight Stock Assistant System
